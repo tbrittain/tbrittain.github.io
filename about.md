@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm using this site as a way to chronicle various projects I'm working on - and for you to check out if you are interested.
+I'm using this site as a way to chronicle various projects I'm working on—and for you to check out if you are interested.
 I enjoy messing around with R and occasionally Python, and use [Gephi](https://gephi.org) for network visualizations.
 ### More Information
 
