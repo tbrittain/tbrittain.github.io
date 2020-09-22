@@ -10,6 +10,8 @@ I enjoy messing around with R, Python, and Java, and use [Gephi](https://gephi.o
 
 I am a senior Cell & Molecular Biology major at the University of St. Thomas in Houston, Texas. My research focus is currently viral metagenomics, and in the past I have been involved with projects in the areas of the gut microbiome and DNA repair mechanisms.
 
-Besides programming, in my free time I enjoy golfing and watching baseball and basketball. This might go without saying (due to the sheer amount of relevant projects I post on here), but I am definitely an audiophile and probably think about music and music-related activites a bit too much (just kidding... just the right amount for my liking). I am also an avid user of audio editing (FL Studio & Cakewalk), video editing (Davinci Resolve), and photo editing (Paint.NET & Photoshop). I also like tinkering around with browser-based visual experiments on [Cables.gl](https://cables.gl/).
+Besides programming, in my free time I enjoy golfing and watching baseball and basketball. This might go without saying (due to the sheer amount of relevant projects I post on here), but I am definitely an audiophile and probably think about music and music-related activites a bit too much (just kidding... just the right amount for my liking).
 
-<img src="https://i.scdn.co/image/ab67616d0000b27358aff2a7771d3ace3e869a7a.jpeg" alt ="test">
+I am also an avid user of audio editing (FL Studio & Cakewalk), video editing (Davinci Resolve), and photo editing (Paint.NET & Photoshop). I also like tinkering around with browser-based visual experiments on [Cables.gl](https://cables.gl/).
+
+<img src="https://i.scdn.co/image/ab67616d0000b27358aff2a7771d3ace3e869a7a" alt ="test">
