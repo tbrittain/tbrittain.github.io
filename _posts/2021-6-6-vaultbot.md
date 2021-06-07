@@ -30,7 +30,7 @@ As of this writing, there have been a total of 3,060 songs that have been added 
 
 [<img src="{{ site.baseurl }}/images/vaultbot/archive.jpg" style="width: 800px;"/>](https://tbrittain.github.io/vaultbot/)
 
-Currently, the VaultBot stack includes a Python backend (via the Discord bot), a PostgreSQL database to store song data in the forms of the Dynamic and Archive playlists, and Rmarkdown files that run as subprocesses of the Python backend to render the statistical analysis webpages as static HTML, which are uploaded to a Google Cloud bucket for <vaultbot.tbrittain.com>.
+Currently, the VaultBot stack includes a Python backend (via the Discord bot), a PostgreSQL database to store song data in the forms of the Dynamic and Archive playlists, and Rmarkdown files that run as subprocesses of the Python backend to render the statistical analysis webpages as static HTML, which are uploaded to a Google Cloud bucket for [vaultbot.tbrittain.com](vaultbot.tbrittain.com).
 
 This was a tolerable design for a rudimentary build of the project, but I have since been brainstorming ways to improve what I already have. The first big step is to normalize the Postgres database:
 
