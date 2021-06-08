@@ -15,4 +15,6 @@ This solution works for when I am at my computer, but I wanted there to be a way
 
 Since I use [Discord](https://discord.com/) both on my computer and mobile (and have experience using [Discord.py](https://github.com/Rapptz/discord.py) to code bots), I ultimately went with setting up the crawler as a Discord bot. This allowed me to receive Discord notifications whenever a product was in stock, which is the next best thing to text messages. I also considered creating a Groupme or WhatsApp bot, but I just don't really use those services as often as I do Discord.
 
+[<img src="{{ site.baseurl }}/images/newegg-crawler/discord.jpg" style="width: 800px;"/>](https://tbrittain.com/newegg-crawl/)
+
 One other alternative I have been considering is setting up a method to email myself results from the searches. I don't check my email often enough for it to be a viable way to know when products are in stock, but I am considering setting this up to receive daily emails about price fluctuations, and perhaps deduce the time at which products are placed in stock. I may do this in conjunction with an SQlite database to store historical product information. That is in the works!
